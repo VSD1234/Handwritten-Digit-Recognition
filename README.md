@@ -1,6 +1,8 @@
 # Handwritten-Digit-Recognition
 This project is an extension of the previous MNIST handwritten digit recognition project.
+
 In this project, I have created a tkinter application in which we can draw digits with the help of a mouse, and by clicking on the "identify" button, it will try to identify the digit that you have drawn.
+
 I have created 3 models for this purpose:
   1) ANN using only numpy and pandas
   2) ANN using PyTorch
